@@ -4,4 +4,4 @@ Tools and packages used: React, TensorFLow, fingerpose.
 
 I followed Nicholas' Youtube video and finished this project. Besides "Thumbs Up" and "Victory", I added two more gestures "OK" and "Love You".
 
-![love u](./public/screenshots/love_you.png)
+![love u](public/screenshots/love_you.PNG)
